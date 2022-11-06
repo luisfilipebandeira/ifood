@@ -8,8 +8,8 @@ Clone do ifood usando Kotlin
 
 <p>Telas do App</p>
 <p align="center">
-    <img alt="Tela 1" src=".github/1.png" width="50%">
-    <img alt="Tela 2" src=".github/2.png" width="50%">
+    <img alt="Tela 1" src=".github/1.png" width="20%">
+    <img alt="Tela 2" src=".github/2.png" width="20%">
 </p>
 
 
